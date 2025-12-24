@@ -102,7 +102,7 @@ skip .\usbmmidd_v2\License.txt
 skip .\usbmmidd_v2\usbmmidd.cat
 skip .\usbmmidd_v2\usbmmIdd.inf
 skip .\usbmmidd_v2\x64\usbmmIdd.dll
-executing C:\Users\User\AppData\Local\rustdesk\.\rustdesk.exe
+executing C:\Users\user1\AppData\Local\rustdesk\.\rustdesk.exe
 Windows version: 10.0
 is windows7: false
-52641759
+493403557
